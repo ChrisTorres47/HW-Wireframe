@@ -44,7 +44,7 @@ article{
     z-index: 20;
 
 }
-h1{
+h1, p{
     height: 50px;
     width: 450px;
     background:#ebebeb;
@@ -63,6 +63,6 @@ aside {
 
 footer {background: #ebebeb;
     color: black;
-    margin: 20px 0 0;
+    margin-bottom: 5px;
     width: 100%;
     }
